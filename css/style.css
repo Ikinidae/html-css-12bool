@@ -3,3 +3,14 @@
     border: solid 1px white;
     height: 50px;
 }
+
+[class*="col-nest"] {
+    background-color: greenyellow;
+    height: 50%;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
