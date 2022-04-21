@@ -1,0 +1,5 @@
+[class*="col-"] {
+    background-color: dodgerblue;
+    border: solid 1px white;
+    height: 50px;
+}
